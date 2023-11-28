@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'lazyAssignment';
 
   msg:any = "devlop branch,Angular Devloper....";
+  msg1:any = "feature branch,UI Devloper....";
 }
